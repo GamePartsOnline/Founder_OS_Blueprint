@@ -1,2 +1,2 @@
-# Founder_OS_Blueprint
-Ceci force la creation de la PR
+# Founder OS Blueprint
+This repository contains the Founder OS Blueprint documentation and supporting materials.
